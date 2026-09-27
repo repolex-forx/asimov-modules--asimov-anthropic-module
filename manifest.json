@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-anthropic-module",
+  "versions": [
+    {
+      "commit": "35f89a44acedde5f3b26db1a79b31060e2771643",
+      "parsed_at": "2026-09-27T19:41:38.920162+00:00",
+      "tag": "0.1.0",
+      "filetree": "filetree/35f89a44acedde5f3b26db1a79b31060e2771643.nq.gz",
+      "blobs": [
+        "blob/0074ac243e97f58407fc5578ba1618c45bf1d23e.nq.gz",
+        "blob/cc6f535b40f4ebf04221043237ff3deaf67f9549.nq.gz",
+        "blob/3755afb7c346537bdd473abdb3026712a0ee9fe5.nq.gz",
+        "blob/bb67c988519445888ae76a7c7c4041de9dee75cf.nq.gz",
+        "blob/7b1f124ff2e192ba4c9e5f48f18520573bdbee88.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/6e8bf73aa550d4c57f6f35830f1bcdc7a4a62f38.nq.gz",
+        "blob/b1863136531d27f34dd1707ec7b623f997f4f5d0.nq.gz",
+        "blob/929f8adea61f2dba3d353e52cfb070983de3e28b.nq.gz",
+        "blob/b8ff9d4a92dba74196806770b3910c48e68f2b94.nq.gz",
+        "blob/4cd7a5bbf96083070f69994975a67204a299fd2d.nq.gz",
+        "blob/2391f73aa051d3804285ce744f2e9a1c7e08993d.nq.gz",
+        "blob/6f83656972dcf4cdabab996bd49dde3986bc10be.nq.gz",
+        "blob/b4e2a20bb6069d33479542fc863e7e36810e0f01.nq.gz",
+        "blob/e245432111b81b4d50040da3d6bfaea388261f7a.nq.gz",
+        "blob/b7f3a74ca7603fb0a6e32c31de0a52de3ac5befd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
