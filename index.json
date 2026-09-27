@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-anthropic-module",
+  "versions": [
+    {
+      "commit": "35f89a44acedde5f3b26db1a79b31060e2771643",
+      "tag": "0.1.0",
+      "parsed_at": "2026-09-27T19:46:04.678343+00:00"
+    }
+  ]
+}
